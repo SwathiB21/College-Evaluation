@@ -66,7 +66,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or support, please contact:
 
-- **Abhinav Kavuluru**: [kavuluruabhinav.28@gmail.com](mailto:kavuluruabhinav.28@gmail.com)
+- **SwathiB21**: [245121737158@mvsrec.edu.in](mailto:245121737158@mvsrec.edu.in)
 
 ---
 
