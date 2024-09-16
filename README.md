@@ -20,7 +20,7 @@ To set up and run this project locally, follow these steps:
 1. **Clone the Repository**
 
    \`\`\`bash
-   git clone https://github.com/Abhinavkavuluru/College-Evaluation-.git
+   git clone https://github.com/SwathiB21/College-Evaluation-.git
    cd College-Evaluation-
    \`\`\`
 
